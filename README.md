@@ -17,12 +17,13 @@ Add "/apidocs" at the end of the second URL and run on your browser.<br />
 ### Flasgger
 After opening the URL, the homepage would look something like this:<br />
 <br />
-![Flasgger home page illustration](flasgger_home.jpg)<br />
-<img src="flasgger_home.jpg" width="48"><br />
+
+<img src="flasgger_home.jpg" width="200"><br />
 
 Type some texts to check their category:<br /><br />
-![Spam illustration](spam_illus.jpg)<br /><br />
-![Ham illustration](ham_illus.jpg)<br />
+<img src="spam_illus.jpg" width="200"><br /><br />
+<img src="spam_illus.jpg" width="200"><br />
+
 
 ### Tools used:
 
