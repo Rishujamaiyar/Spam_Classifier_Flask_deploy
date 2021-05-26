@@ -22,8 +22,8 @@ After opening the URL, the homepage would look something like this:<br />
 <img src="flasgger_home.jpg" width="750"><br />
 
 Type some texts to check their category:<br /><br />
-<img src="spam_illus.jpg" width="750"><br /><br />
-<img src="spam_illus.jpg" width="750"><br />
+<img src="spam_illus.jpg" width="700"><br /><br />
+<img src="ham_illus.jpg" width="700"><br />
 
 
 ### Tools used:
