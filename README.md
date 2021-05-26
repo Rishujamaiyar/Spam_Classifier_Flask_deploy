@@ -10,7 +10,7 @@ After training we have created a pickle file of the classifier that can be found
 ### App Deployment
 We have used the Flask framework for the deployment and the Flasgger library to create an instantaneous Frontend UI. Since we have used the Colab Notebook to run the app, we were unable to access localhost that's why we have used ngrok library to create a URL.<br />
 <br />
-<img src="url_illus.jpg" width="1000"><br />
+<img src="url_illus.jpg" width="750"><br />
 
 <br />
 Add "/apidocs" at the end of the second URL and run on your browser.<br />
@@ -19,11 +19,11 @@ Add "/apidocs" at the end of the second URL and run on your browser.<br />
 After opening the URL, the homepage would look something like this:<br />
 <br />
 
-<img src="flasgger_home.jpg" width="1000"><br />
+<img src="flasgger_home.jpg" width="750"><br />
 
 Type some texts to check their category:<br /><br />
-<img src="spam_illus.jpg" width="1000"><br /><br />
-<img src="spam_illus.jpg" width="1000"><br />
+<img src="spam_illus.jpg" width="750"><br /><br />
+<img src="spam_illus.jpg" width="750"><br />
 
 
 ### Tools used:
